@@ -88,10 +88,3 @@ I'm a **Full-Stack Developer** with **4+ years** of hands-on experience building
 | 🍴 **Restaurant System** | UI/UX + Backend | Laravel, Bootstrap |
 
 ---
-
-## 🧰 Technologies & Tools
-
-```text
-💻 Laravel • PHP • React • JavaScript • HTML5 • CSS3 • Sass • Bootstrap
-🧩 Drupal • MySQL • SQLite • REST APIs • AJAX • Git • GitLab • Postman
-🎨 Photoshop • Figma (Basics) • Linux • Hardware Troubleshooting
