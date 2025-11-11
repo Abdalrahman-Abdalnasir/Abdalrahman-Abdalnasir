@@ -52,11 +52,9 @@ I'm a **Full-Stack Developer** with **4+ years** of hands-on experience building
 ## 🏆 Key Achievements
 
 ✅ Led backend development for Tamouh (Monshaat) – Saudi Ministry of Commerce
-🌿 Developed and optimized Green Codes HSE & Sustainability Software – enabling intuitive safety, compliance, and sustainability tracking with mobile and web platforms
 🔒 Patched critical security flaws in ERP (3Hand Design)
 ⚡ Built real-time inventory system using React + Laravel (Ultra Soft)
 🚀 Delivered 5+ production-ready projects with high reliability
-
 
 ---
 
