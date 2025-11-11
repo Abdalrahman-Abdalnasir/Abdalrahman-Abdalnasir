@@ -59,21 +59,6 @@ I'm a **Full-Stack Developer** with **4+ years** of hands-on experience building
 
 ---
 
-## 🧩 Skills Matrix
-
-| 💡 Skill |
-|-----------|
-| 🟩 Laravel / PHP |
-| 🟩 React / JavaScript |
-| 🟩 HTML / CSS / Sass |
-| 🟨 Drupal CMS |
-| 🟩 RESTful APIs |
-| 🟨 MySQL / Database |
-| 🟦 Git & CI/CD |
-| 🟧 System Admin (HW/SW) |
-
----
-
 ## 🎯 Portfolio Highlights
 
 💼 I had the privilege to work on **Tamouh**, a flagship initiative by the **Saudi Ministry of Commerce (Monsha’at)**, empowering entrepreneurs across the Kingdom through digital transformation solutions.  
