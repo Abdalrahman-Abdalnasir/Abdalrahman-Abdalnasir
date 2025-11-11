@@ -60,28 +60,30 @@ I'm a **Full-Stack Developer** with **4+ years** of hands-on experience building
 
 ## 🧩 Skills Matrix
 
-| 💡 Skill              | 🔥 Proficiency |
-|-----------------------|:--------------:|
-| Laravel / PHP         | 🟩 95% |
-| React / JavaScript    | 🟩 90% |
-| HTML / CSS / Sass     | 🟩 90% |
-| Drupal CMS            | 🟨 85% |
-| RESTful APIs          | 🟩 90% |
-| MySQL / Database      | 🟨 85% |
-| Git & CI/CD           | 🟦 80% |
-| System Admin (HW/SW)  | 🟧 75% |
+| 💡 Skill |
+|-----------|
+| 🟩 Laravel / PHP |
+| 🟩 React / JavaScript |
+| 🟩 HTML / CSS / Sass |
+| 🟨 Drupal CMS |
+| 🟩 RESTful APIs |
+| 🟨 MySQL / Database |
+| 🟦 Git & CI/CD |
+| 🟧 System Admin (HW/SW) |
 
 ---
 
 ## 🎯 Portfolio Highlights
 
+💼 I had the privilege to work on **Tamouh**, a flagship initiative by the **Saudi Ministry of Commerce (Monsha’at)**, empowering entrepreneurs across the Kingdom through digital transformation solutions.  
+
 🌐 Explore full projects: [**my-portfolio-websit.netlify.app**](https://my-portfolio-websit.netlify.app/)
 
 | Project | Role | Tech Stack |
 |----------|------|------------|
+| 🏢 **Tamouh (Monsha’at)** | Full-Stack & Drupal | PHP, Drupal, Security |
 | 🚗 **Car Sales Platform** | Full-Stack | Laravel, React, MySQL |
 | 🏭 **Warehouse Management** | Full-Stack | Laravel, React, REST API |
-| 🏢 **Tamouh (Monshaat)** | Backend & Drupal | PHP, Drupal, Security |
 | 🎓 **Educational Center** | Web Design | HTML, CSS, JS |
 | 🍴 **Restaurant System** | UI/UX + Backend | Laravel, Bootstrap |
 
