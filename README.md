@@ -65,12 +65,4 @@ I'm a **Full-Stack Developer** with **4+ years** of hands-on experience building
 
 🌐 Explore full projects: [**my-portfolio-websit.netlify.app**](https://my-portfolio-websit.netlify.app/)
 
-| Project | Role | Tech Stack |
-|----------|------|------------|
-| 🏢 **Tamouh (Monsha’at)** | Full-Stack & Drupal | PHP, Drupal, Security |
-| 🚗 **Car Sales Platform** | Full-Stack | Laravel, React, MySQL |
-| 🏭 **Warehouse Management** | Full-Stack | Laravel, React, REST API |
-| 🎓 **Educational Center** | Web Design | HTML, CSS, JS |
-| 🍴 **Restaurant System** | UI/UX + Backend | Laravel, Bootstrap |
-
 ---
