@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with **4+ years** of hands-on experience building **scalable, secure, and user-centric** web applications using **Laravel**, **React**, and **Drupal**.
+I'm a **Full-Stack Developer** with **3+ years** of hands-on experience building **scalable, secure, and user-centric** web applications using **Laravel**, **React**, and **Drupal**.
 
 💡 Contributed to **Tamouh** — a flagship initiative by the **Saudi Ministry of Commerce (Monshaat)** — empowering entrepreneurs across the Kingdom.  
 💪 I handle **end-to-end development**: from **system architecture** to **hardware–software integration**, optimizing performance and enhancing UX.
