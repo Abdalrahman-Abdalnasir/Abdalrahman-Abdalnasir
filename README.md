@@ -1,66 +1,81 @@
-<!-- Animated Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00C9A7">Abdalrahman Abdalnasir</span></h1>
-<h3 align="center">💻 Senior Full-Stack Developer | Laravel & React Expert</h3>
+# 👋 Hi, I'm AbdulRahman AbdelNasser
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdalrahman-abdalnasir-5b9301243">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://my-portfolio-websit.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1E8E3E?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Abdalrahman-Abdalnasir">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="mailto:abdulrahmanabdelnasserfelfel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-  <a href="tel:+201140062724">
-    <img src="https://img.shields.io/badge/Phone-%2B20%201140062724-4285FA?logo=phone&logoColor=white&style=for-the-badge" alt="Phone" />
-  </a>
-</p>
+### Full-Stack Developer | Laravel · React · Node.js | Backend & DevOps
 
-<p align="center">📍 Cairo, Egypt | 🌍 Available for Remote & On-site Roles</p>
+📍 Cairo, Egypt · 🌍 Open to Remote & On-site Roles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abdulrahman-abdulnasser-5b9301243/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E8E3E?logo=googlechrome&logoColor=white&style=for-the-badge)](https://profile.abdulrahmanabdelnasserfelfel.workers.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdulrahmanabdelnasserfelfel@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with **4+ years** of hands-on experience building **scalable, secure, and user-centric** web applications using **Laravel**, **React**, and **Drupal**.
+Full-stack developer with **3+ years of experience** building web applications with **Laravel, React, Node.js, MySQL and PostgreSQL**. Most of my work has been on **government and enterprise projects in Saudi Arabia**, including **Tumouh (Ministry of Commerce)**, **Monshaat**, an **HSE safety management platform**, and a project for the **National Housing Company (NHC)**.
 
-💡 Contributed to **Tamouh** — a flagship initiative by the **Saudi Ministry of Commerce (Monshaat)** — empowering entrepreneurs across the Kingdom.  
-💪 I handle **end-to-end development**: from **system architecture** to **hardware–software integration**, optimizing performance and enhancing UX.
+I work mainly on the **backend**: APIs, database design, permissions and performance. I also **manage the servers myself**, from setting up Linux servers and Nginx to handling deployments and fixing production issues.
 
-✨ Passionate about clean code, high performance, and delivering real business value through technology.
+---
+
+## 💼 Experience
+
+**Full-Stack Developer — Green Codes** · *Aug 2025 – Present*
+Modular SaaS platform for occupational safety and environmental management, used by enterprise and government clients in Saudi Arabia (incidents, risk management, inspections, permits, documents, training, compliance, reporting). Backend features in Laravel with a focus on scalable architecture, RESTful APIs, performance and stability.
+
+**Full-Stack Developer — Future Education Group** · *Jul 2024 – Jul 2025*
+Government projects for the Saudi Ministry of Commerce (Monshaat platform). Developed and customized Drupal-based enterprise solutions, with security best practices and performance improvements.
+
+**Web Developer (Remote) — Scope Company** · *Jan 2024 – Jun 2024*
+Tumouh, a Ministry of Commerce initiative in Saudi Arabia. Built interactive web applications with Laravel and JavaScript, and identified and reported critical security vulnerabilities that helped harden the system.
 
 ---
 
 ## 🛠 What I Do
 
-### 🎨 **Frontend Development**
-- 🖌️ Create **pixel-perfect**, responsive UIs using **HTML5, CSS3, Sass, JavaScript, React**
-- ♻️ Build **reusable components** & ensure **accessibility & optimization**
-- 📱 Deliver a **seamless experience** across all devices
+**⚙️ Backend**
+- RESTful APIs and integrations with Laravel, Node.js and Express
+- Database design and query optimization (MySQL, PostgreSQL, MongoDB)
+- Authentication, roles and permissions, and secure coding
 
-### ⚙️ **Backend Development**
-- 🧱 Architect **robust APIs & scalable systems** using **Laravel (PHP)**
-- 🧮 Develop **CMS, ERP, and e-commerce** platforms
-- 🔐 Secure with **authentication, encryption, and vulnerability patching**
+**🎨 Frontend**
+- Responsive interfaces with React, JavaScript, Sass, Tailwind and Bootstrap
+- Reusable components and clean API integration
 
----
-
-## 🏆 Key Achievements
-
-- ✅ Led backend development for Tamouh (Monshaat) – Saudi Ministry of Commerce
-- 🔒 Patched critical security flaws in ERP (3Hand Design)
-- ⚡ Built real-time inventory system using React + Laravel (Ultra Soft)
-- 🚀 Delivered 5+ production-ready projects with high reliability
-- 🌿 Developed and optimized Green Codes HSE & Sustainability Software – enabling intuitive safety, compliance, and sustainability tracking with mobile and web platforms
+**🖥️ DevOps & Servers**
+- Linux server setup and configuration with Nginx
+- Git-based deployments and release workflows
+- Hosting management (cPanel / hPanel)
+- Monitoring and fixing production issues
 
 ---
 
-## 🎯 Portfolio Highlights
+## 🧰 Tech Stack
 
-💼 I had the privilege to work on **Tamouh**, a flagship initiative by the **Saudi Ministry of Commerce (Monsha’at)**, empowering entrepreneurs across the Kingdom through digital transformation solutions.  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-🌐 Explore full projects: [**[my-portfolio-websit](https://profile.abdulrahmanabdelnasserfelfel.workers.dev/)**]([https://my-portfolio-websit.netlify.app/](https://profile.abdulrahmanabdelnasserfelfel.workers.dev/))
+---
+
+## 🏆 Highlights
+
+- 🏛️ Worked on **Tumouh** and **Monshaat**, Saudi Ministry of Commerce platforms supporting entrepreneurs and SMEs
+- 🌿 Building backend modules for the **Green Codes HSE platform**, including a deployment for the **National Housing Company**
+- 🔒 Identified and helped patch **critical security vulnerabilities** on a government platform
+- 🖥️ Own the full path from code to production: **Linux servers, Nginx and deployments**
+
+---
+
+🌐 **More projects:** [My Portfolio](https://profile.abdulrahmanabdelnasserfelfel.workers.dev/)
