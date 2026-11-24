@@ -6,11 +6,11 @@
 
 📍 Cairo, Egypt · 🌍 Open to Remote & On-site Roles
 
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abdulrahman-abdulnasser-5b9301243/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E8E3E?logo=googlechrome&logoColor=white&style=for-the-badge)](https://profile.abdulrahmanabdelnasserfelfel.workers.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdulrahmanabdelnasserfelfel@gmail.com)
+
+</div>
 
 ---
 
